@@ -2,7 +2,7 @@
 Plataforma de juegos "Juegos Friv UD"
 
 ### Integrantes
-- Fabian Alexander Franco Quiroga - 20152020048 
+- Diego Alejandro Malagon
 
 ### Ejecucion
 - Descargar El Xampp.
