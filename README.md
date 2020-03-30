@@ -2,7 +2,7 @@
 Plataforma de juegos "Juegos Friv UD"
 
 ### Integrantes
-- Diego Alejandro Malagon
+- Diego Alejandro Malagon 20162020098
 
 ### Ejecucion
 - Descargar El Xampp.
