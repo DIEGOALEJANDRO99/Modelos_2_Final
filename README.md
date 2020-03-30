@@ -5,6 +5,11 @@ Plataforma de juegos "Juegos Friv UD"
 - Fabian Alexander Franco Quiroga - 20152020048 
 - Diego Alejandro Malagón - 20162020098
 
+### Ejecucion
+- Descargar El Xampp.
+- Guardar la carpeta de servidor juegos en la carpeta htdocs, que se encuentra dentro de la carpeta donde se instaló el Xampp.
+- Ejecutar el Xampp e iniciar el apache y el Mysql.
+
 ### Requerimientos
 Es necesario instalar Xampp, el cual es un entorno de desarollo con PHP, que por medio de este nos permite realizar la conexion con la base de datos.
 
