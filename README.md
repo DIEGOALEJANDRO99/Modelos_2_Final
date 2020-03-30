@@ -1,1 +1,14 @@
-Modelos_2_Final
+# Final Modelos 2
+Plataforma de juegos "Juegos Friv UD"
+
+### Integrantes
+- Fabian Alexander Franco Quiroga - 20152020048 
+- Diego Alejandro Malagón - 20162020098
+
+### Requerimientos
+Es necesario instalar Xampp, el cual es un entorno de desarollo con PHP, que por medio de este nos permite realizar la conexion con la base de datos.
+
+### Paradigmas
+- Paradigma imperativo: Se utiliza javascript para definir las funciones del proyecto y utilizar los valores del mismo.
+- Paradigma orientado a objetos: Para enviar los datos del programa a la base de datos
+- Paradigma lógico: Usando Mysql, la base de datos relaciona los datos, los interpreta y da una respuesta o un resultado con base a sus archivos recibidos
